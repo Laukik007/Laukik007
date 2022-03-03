@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Laukik007
-- 👀 I’m interested in Android development and Competitive programming.
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on AD projects
+- 👀 I’m interested in Web development and Competitive programming.
+- 🌱 I’m Backend developer
+- 💞️ I’m looking to collaborate on WD projects
 - 📫 How to reach me - laukikrama.7@gmail.com
 
 <!---
